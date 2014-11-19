@@ -1,0 +1,13 @@
+body {background-color: red;}
+
+
+
+@media only screen and (max-width: 40em) {
+	body {background-color: orange;}
+
+	.panel h3 {
+		color: green;
+	}
+}
+
+.fullscreen {width: 100%;}
